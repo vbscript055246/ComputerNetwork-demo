@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/vbscript/Desktop/client/main.cpp
+iostream
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+time.h
+-
+
